@@ -6,6 +6,10 @@
 ## Link : 
 [www.saurabhdaware.cf/webapps/SketchOver/](http://www.saurabhdaware.cf/webapps/SketchOver/)
 
+## Installation :
+- Download and Install XAMPP / APACHE Server + PHP 
+- Clone the directory to your htdocs folder `git clone https://github.com/saurabhdaware/sketchover.git` 
+- Navigate to [http://localhost/SketchOver](http://localhost/sketchover/)
 
 ## Working :
 
